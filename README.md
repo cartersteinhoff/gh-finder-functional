@@ -2,6 +2,6 @@
 
 ## React SPA pulling data from Github API
 
-### Live Site - [gethubfinder.netlify.com](gethubfinder.netlify.com')
+### Live Site - [www.gethubfinder.netlify.com](gethubfinder.netlify.com')
 
 ![Application](Capture.PNG)
